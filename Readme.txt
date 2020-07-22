@@ -1,0 +1,2 @@
+copy sublime_open in /usr/local/bin and use chmod +x and that's it.
+When you go with terminal somewhere and you want open a file with sublime text use "sublime_open namefile"
